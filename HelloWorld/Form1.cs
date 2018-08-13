@@ -21,8 +21,11 @@ namespace HelloWorld
             MessageBox.Show("Test Git");
 
             MessageBox.Show("Test Git Again");
+<<<<<<< HEAD
 
             MessageBox.Show("Test Git Edit at Branch!");
+=======
+>>>>>>> parent of d8e1e78... Git Again Edit in master
         }
     }
 }
