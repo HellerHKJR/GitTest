@@ -19,6 +19,8 @@ namespace HelloWorld
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Test Git");
+
+            MessageBox.Show("Test Git Again");
         }
     }
 }
