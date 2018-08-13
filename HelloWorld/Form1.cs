@@ -22,7 +22,7 @@ namespace HelloWorld
 
             MessageBox.Show("Test Git Again");
 
-            MessageBox.Show(" Git Again Edit in mater");
+            MessageBox.Show("Test Git Edit at Branch!");
         }
     }
 }
